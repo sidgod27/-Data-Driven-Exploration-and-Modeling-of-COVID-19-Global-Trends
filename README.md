@@ -17,5 +17,10 @@ Understanding the COVID-19 pandemic's progression helps in gauging the effective
 - `covid19_data_solution.ipynb`: Copy paste python code in any Integrated development environment (IDE) 
 - `README.md`: This file containing project details.
 - `.gitignore`: Git ignore rules for Python projects.
-- `requirements.txt` (optional): Python libraries required to run the notebook.
+- `requirements.txt` (optional): Python libraries required to run the python code
+-  pip install pandas
+-  pip install matplotlib
+-  pip intall plotly
+-  pip intall numpy
+-  pip intall seaborn 
 
