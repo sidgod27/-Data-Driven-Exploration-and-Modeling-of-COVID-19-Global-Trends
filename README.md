@@ -12,18 +12,10 @@ Understanding the COVID-19 pandemic's progression helps in gauging the effective
 - Government released regional data sources
 - Other publicly accessible data repositories related to COVID-19
 
-## Technologies and Libraries Used
-- Python
-- Pandas for data manipulation
-- NumPy for numerical operations
-- Matplotlib and Seaborn for data visualization
-- Jupyter Notebook for interactive coding and documentation
 
 ## Project Structure
-- `covid19_data_solution.ipynb`: Main Jupyter notebook containing the full data analysis workflow.
+- `covid19_data_solution.ipynb`: Copy paste python code in any Integrated development environment (IDE) 
 - `README.md`: This file containing project details.
 - `.gitignore`: Git ignore rules for Python projects.
 - `requirements.txt` (optional): Python libraries required to run the notebook.
 
-## How to Run
-1. Clone or download this repository:
